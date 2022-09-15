@@ -1,0 +1,38 @@
+.mon-body{
+    background-color: aquamarine;
+}.mon-para{
+    background-color: yellow;
+    }
+h1{
+    color: red;
+}
+h2{ 
+    color: blue;
+}
+#ma-première-div{
+    border: solid 2px blue;
+    display: flex;
+    background-color: yellow;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    background-color: yellow;
+    width: 100%;
+}
+.square{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    border: solid 4px purple;
+    margin-left: 20px;
+    margin right: 20px;
+}
+.move{
+    position: relative;
+    right: 0px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color: red;
+    
+}
